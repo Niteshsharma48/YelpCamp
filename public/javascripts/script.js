@@ -12,6 +12,10 @@ $("#Comments_id").on("click",function(){
     $("#Description_id").toggleClass("active");
 });
 
+$("#goBack").on("click",function(){
+    window.location = "/campgrounds";
+});
+
 /**
  * <div id="Map_id" class="list-group-item">Map</div>
  * 

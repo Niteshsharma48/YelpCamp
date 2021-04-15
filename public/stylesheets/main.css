@@ -17,3 +17,7 @@
 .completed{
     display: none;
 }
+
+#goBack{
+    color: black;
+}
